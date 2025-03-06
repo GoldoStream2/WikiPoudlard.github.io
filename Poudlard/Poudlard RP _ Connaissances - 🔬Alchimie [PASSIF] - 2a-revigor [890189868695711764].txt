@@ -1,0 +1,18 @@
+
+Incantation : Revigor 
+
+Effet : Donner son énergie vitale afin de faire réanimer une personne inconsciente ou une personne faible.  Attention, si on rate le sortilège, on risque de faire un malaise.
+
+Gestuelle : Pointer sa baguette contre le torse de la cible en prononçant l’incantation.
+
+Type : Enchantement.
+
+Forme physique : Lueur rouge
+
+Étymologie : L’incantation originelle était Enervatum. En raison de cette idée fausse, il à été officiellement rebaptisé "Revigor", ce qui signifie "énergiser"
+
+Histoire : ./
+
+Commentaires : Le contre sort du sortilège est Stupefix. Selon la puissance du sorcier, le don d’énergie vitale se fera plus aisément et rapidement.
+
+

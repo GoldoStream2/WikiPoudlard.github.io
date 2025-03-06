@@ -1,0 +1,22 @@
+
+- Sortilège: Papyrus Reparo
+
+- Incantation: puh-PIE-rus reh-PAH-roh
+
+- Effet: Papyrus Reparo est un sortilège permettant de réparer des papiers et des documents.
+
+- Type: Enchantement 
+
+- Gestuelle:  Pointer la baguette sur l'objet 
+
+- Forme Physique: Aucune 
+
+- Étymologie: La formule Papyrus Reparo vient du latin Papyrus signifiant "papier" et du verbe Reparo signifiant "je répare"
+
+- Utilité: Permet de réparer un papier, si ce dernier à été déchiré ou coupé 
+
+- Histoire: // 
+
+- Commentaire: Ne fonctionne pas sur du papier brulé
+
+

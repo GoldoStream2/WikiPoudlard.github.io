@@ -1,0 +1,22 @@
+
+- Sortilège: La limite d'âge.
+
+- Incantation: Incantation à ne pas donner
+
+- Effet:  C'est un sortilège qui est utilisé pour empêcher les personnes au-dessus ou en dessous d'un âge spécifié d'accéder à un objet ou un lieu spécifique en créant une barrière magique tout autours de celui-ci.
+
+- Type: C'est un enchantement.
+
+- Gestuelle: Il suffit de pointer la baguette vers la direction de l'objet ou du lieu en récitant l'incantation.
+
+- Forme Physique: Une lumière bleu qui apparaît au bout de la baguette une fois l'incantation prononcé.
+
+- Étymologie: On ne sait pas vu que l'incantation est inconnue pour le moment.
+
+- Utilité: Il peut servir à délimiter une zone interdite aux sorciers qui n'ont pas l'âge requis.
+
+- Histoire: Elle est méconnue de l'académie de Sorcellerie Poudlard.
+
+- Commentaire: Une ligne d'âge ne peut pas être trompée ou contournée, même par la potion de vieillissement.
+
+

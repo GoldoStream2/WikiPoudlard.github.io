@@ -1,0 +1,22 @@
+
+- Sortilège: Speedavec.
+
+- Incantation: Speedavec.
+
+- Effet: Permet de donner une propulsion sur la baguette qui va permettre d'entrainer la personne tenant la baguette dans une direction souhaité.
+
+- Type: Enchantement.
+
+- Gestuelle: Un coup de baguette dans la direction souhaité.
+
+- Forme Physique: /
+
+- Étymologie: "Speed" qui viens de l'anglais qui signifie "Vitesse" et "Avec" qui viens du Latin qui signifie "marcher" en latin. On peux le traduire par "marcher avec vitesse".
+
+- Utilité: Permet de se déplacer rapidement d'un endroit à un autre, la propulsion peut être plus ou moins importante en fonction de l'angle choisit et de la puissance du sorcier.
+
+- Histoire: /
+
+- Commentaire: La baguette n'as pas assez de propulsion pour transporter 2 personnes qui la tiennent, l'angle de propulsion déterminera la portée à laquelle vous allez aller vers la direction, on ne peut pas l'utiliser sans retoucher le sol au moins une fois de plus il ne permet pas de ne pas se faire mal quand on retombe, il est conseillé de choisir un angle de maximum 44° au delà, on peux se briser les jambes en retombant. La puissance de propulsion varie en fonction de la puissance du sorcier.
+
+

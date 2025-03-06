@@ -1,0 +1,22 @@
+
+- Sortilège: Sortilège de Coussinage
+
+- Incantation: Molliare (mul-lee-AR-ray) 
+
+- Effet: Le sortilège de Coussinage est un sort utilisé pour rendre plus confortable le manche des balais volants en imitant l'effet d'un coussin.
+
+- Type: Enchantement 
+
+- Gestuelle: Pointer la baguette sur l'objet 
+
+- Forme Physique: Aucune (pas de coussin réel)
+
+- Étymologie: L’incantation Molliare est peut-être dérivée du latin mollire, qui signifie "adoucir". Cela correspond à l’effet d’amorti du sort.
+
+- Utilité: Permet de rendre confortable un endroit que n'est pas sensé l'être à la base 
+
+- Histoire: Il a été inventé en 1820 par Elliot Smethwyck.
+
+- Commentaire: Les effets sont permanents, jusqu'à ce que l'anti sort général soit utilisé
+
+

@@ -1,0 +1,22 @@
+
+- Sortilège: Acriea.
+
+- Incantation: Acriea. 
+
+- Effet: Voir la chaleur corporelle d’un humain ou d'une créature à travers les murs. La portée est de 2km et la durée du sortilège est assez faible, 4sec.
+
+- Type: Enchantement.
+
+- Gestuelle: Pointer ses yeux.
+
+- Forme Physique: /
+
+- Étymologie: "Acriea" qui viens du latin "Acria" qui signifie "Acidité ou "Acriea" qui viens du roumain qui signifie "acide".
+
+- Utilité: Permet de voir les personnes/créatures à travers les murs sur une portée de 2km, il dure que 4 secondes.
+
+- Histoire: Pourrait être inspirer des lunettes de visions thermiques des militaires moldu.
+
+- Commentaire: On ne voit pas les personnes/créatures qui sont dans un Salvio Hexia à part leurs pieds. Également on ne peut pas le lancer sur d'autres personnes. La portée et duré du sort ne varie pas.
+
+

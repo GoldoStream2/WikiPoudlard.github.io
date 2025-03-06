@@ -1,0 +1,29 @@
+
+- Sortilège : Sortilège d'Attraction
+
+- Incantation : Accio suivi du nom de l'objet
+
+- Effet : Il permet d'invoquer des objets dans le champ de vision direct du lanceur ainsi qu'hors de vue.
+
+- Type : Enchantement
+
+- Gestuelle : Demi-cercle vers le haut de gauche à droite
+
+- Forme Physique : Aucune
+
+- Étymologie : Accio vient du latin qui signifie en français "J'appelle" ou "Action". En hongrois, on utilise le terme "Invito" qui veut sûrement dire "Inviter".
+
+- Utilité : Attirer des objets vers soi, si on est dans l’incapacité de se déplacer. Peut également servir à attraper une baguette à une sorcier désarmé ou un objet en particulier reflétant dans l'esprit du lanceur qui peut être loin de notre position.
+
+- Histoire : L’utilisation la plus célèbre de ce sort a été, selon Miranda Goshawk par les Accionites et leur leader : Gideon Flatworthy. 
+C'est l'un des plus anciens sortilèges de la communauté magique.
+
+- Contre-sorts : Le charme de bannissement (Depulso) et le charme d'anti-vol (qui empêche d'attirer l'objet pré-enchanté par quiconque sauf le propriétaire)
+
+- Commentaire : Si l'objet voulu est à une distance importante, cela n'est pas un problème dans la mesure ou la position dudit objet est claire dans l'esprit du sorcier. 
+Le sortilège ne fonctionne pas sur les êtres vivants, bien qu'ils puissent être attirés indirectement en tenant/portant l'objet car il est attiré à une vitesse proche de la lumière, ce qui rend le processus dangereux pouvant blesser la personne. Il ne fonctionne pas sur les bâtiments.
+Il est considéré comme une amélioration de Wingardium Leviosa.
+
+Le sortilège peut être lancé de manière non verbale, c'est à dire que l'incantation n'est pas prononcée. Cet enseignement est appris uniquement en sixième année.
+
+

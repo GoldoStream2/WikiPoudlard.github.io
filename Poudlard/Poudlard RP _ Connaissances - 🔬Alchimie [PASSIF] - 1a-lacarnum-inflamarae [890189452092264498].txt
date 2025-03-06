@@ -1,0 +1,22 @@
+
+- Sortilège: Lacarnum Inflamarae
+
+- Incantation: la-KAR-num in-flah-MAR-ee
+
+- Effet: Lacarnum Inflamarae est un sort utilisé pour enflammer un objet.
+
+- Type: Enchantement 
+
+- Gestuelle: Pointer la baguette sur l'objectif 
+
+- Forme Physique: Lueur orange au bout de la baguette, une flamme sort de la baguette 
+
+- Étymologie: Lacarnum Inflamarae semble être dérivé du latin lacerna, un nom signifiant "manteau", et inflammare, le verbe latin signifiant "enflammer". Ensemble, l’incantation peut signifier "mettre le feu à un manteau".
+
+- Utilité: Le sortilège peut être utile pour démarrer un feu , brûler un objet, se réchauffer... 
+
+- Histoire: Le sortilège à probablement été crée dans le Moyen-Age en Russie,  Les sorciers utilisaient ce sortilège pour se réchauffer.... 
+
+- Commentaire: Le sortilège ne peut pas fonctionner sur un être vivant, mais seulement sur une matière non vivante.
+
+

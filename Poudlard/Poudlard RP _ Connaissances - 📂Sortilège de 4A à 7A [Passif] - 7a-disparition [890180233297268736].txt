@@ -1,0 +1,25 @@
+
+- Sortilège: Disparition
+
+- Incantation: exitum (Ex-SI-tum)
+
+- Effet: Disparition un sort qui permet de faire disparaître des choses quelques secondes.
+
+- Type: Enchantement 
+
+- Gestuelle: Pointer la baguette sur l'objet 
+
+- Forme Physique: Blanc brumeux 
+
+- Étymologie: exitum  est le latin de "disparition" 
+
+- Utilité: Permet de faire disparaître de petits objets pour seulement quelques secondes pour cacher rapidement un objet 
+
+- Histoire: Inconnu 
+
+- Commentaire: 
+C'est probablement une variante raté de Evanesco 
+Le sortilège laisse une trace magique énorme , permettant de retrouver le contenu de l'objet initiale facilement 
+Ne fonctionne pas sur les êtres vivants
+
+

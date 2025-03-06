@@ -1,0 +1,22 @@
+
+- Sortilège: Sortilège de Récurage
+
+- Incantation: Récurvite
+
+- Effet: Le sortilège de Récurage est un sortilège ménager. Cet enchantement permet de nettoyer un objet, une créature ou une personne. Son incantation est Récurvite.
+
+- Type: Enchantement 
+
+- Gestuelle:  Un S majuscule 
+
+- Forme Physique: Aucune 
+
+- Étymologie: // 
+
+- Utilité: Nettoyer efficacement un lieux 
+
+- Histoire: // 
+
+- Commentaire: Les sortilèges de Récurage sont utilisés pour nettoyer une maison de ses Bandimons.
+
+

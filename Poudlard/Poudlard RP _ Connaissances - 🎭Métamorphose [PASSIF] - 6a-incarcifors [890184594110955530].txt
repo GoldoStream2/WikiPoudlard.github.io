@@ -1,0 +1,22 @@
+
+- Sortilège: Incarcifors.
+
+-Incantation: Incarcifors (in-CAR-si-fors).
+
+-Effet: Le sortilège permet de transformer un objet en une cellule. 
+
+-Type: Transfiguration.
+
+- Gestuelle: Pointer la baguette sur la cible.
+
+- Forme Physique: /.
+
+ - Étymologie: Le préfixe « incarci- » vient probablement de l'anglais « to incarcerate », avec le suffixe -fors attaché.
+
+- Utilité: Le sortilège permet de transformer un objet en cellule. Utile pour enfermer une créature proche, lui permettant de la capturer.
+
+- Histoire: /.
+
+- Commentaire: Plus le sorcier est aguerri, plus le sorcier pourra faire des barreaux plus solides et une cage nettement plus grande. Donc d’emprisonner des créatures plus grandes.
+
+

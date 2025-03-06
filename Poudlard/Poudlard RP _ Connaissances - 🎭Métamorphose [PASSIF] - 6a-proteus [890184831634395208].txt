@@ -1,0 +1,22 @@
+
+- Sortilège: Sortilège Protéiforme
+
+- Incantation: Proteus (Prot-éus)
+
+- Effet: Le sortilège Protéiforme est un enchantement qui lie des objets, leur faisant prendre la même forme si l'un d'eux est modifié.
+
+- Type: Enchantement 
+
+- Gestuelle: Un signe infini entre les deux objets 
+
+- Forme Physique: Aucune 
+
+- Étymologie: Le mot anglais Protean dérive de Proteus, un dieu dans la mythologie grecque. Proteus était un métamorphe, capable de prendre de nombreuses formes. En conséquence, le mot Protean est venu à se référer à la polyvalence, la flexibilité, ou une capacité à assumer de nombreuses formes. "Protean" est également similaire à la "protéine", dérivée de la même racine, c’est-à-dire une substance variable et flexible qui forme de fortes liaisons entre ses parties constituantes.
+
+- Utilité: Par exemple si un objet est modifié quelque part, son jumeau le sera aussi et cela avertira le possesseur
+
+- Histoire: Inconnu 
+
+- Commentaire: Il est possible de briser le lien en relançant le sortilège
+
+

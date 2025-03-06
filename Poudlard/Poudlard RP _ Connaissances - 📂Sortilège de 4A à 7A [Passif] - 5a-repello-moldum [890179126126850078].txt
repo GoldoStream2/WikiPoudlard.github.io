@@ -1,0 +1,22 @@
+
+Nom : Sortilège Repousse-Moldu
+
+Incantation : Repello Moldum
+
+Effet : Repousse les Moldus, ce dernier, sitôt son corp traversant le sortilège, se rappelle qu'il à quelque chose d'urgent à faire 
+
+Type : Enchantement
+
+Gestuelle : Lever la Baguette vers le Ciel
+
+Étymologie : Repello signifie "je repousse", "j'éloigne", du verbe repellere. Moldum et Muggletum sont des formes latinisées (à l'accusatif) des mots Moldu et Muggle. Repello Moldum signifie donc "je repousse le Moldu".
+
+Forme Physique : Aucune
+
+Utilité : Empêche qu'un moldu n'aille dans une zone sécurisé par des sorciers
+
+Histoire : Méconnu
+
+Commentaire : Ce Sortilège n'a effets que sur les Moldus.
+
+

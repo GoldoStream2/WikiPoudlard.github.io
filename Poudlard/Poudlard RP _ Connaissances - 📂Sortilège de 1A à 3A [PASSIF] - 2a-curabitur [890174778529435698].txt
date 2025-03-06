@@ -1,0 +1,21 @@
+
+- Sortilège : Sortilège de la langue pendue 
+
+- Incantation : Inconnue
+
+- Effet : La malédiction de langue pendue (incantation inconnue) est une malédiction qui cause un bavardage incontrôlable
+
+- Type : Malédiction 
+
+- Gestuelle : un trait horizontale qui continue sur un cercle, une diagonale de gauche à droite vers le haut poursuit le tracé puis se termine sur une diagonale de droite à gauche vers le haut
+- Forme Physique : des scintillement rouge 
+
+- Étymologie : /
+
+- Utilité : Le sortilège à pour unique but de nuire à autrui (voir définition malédiction)
+
+- Histoire : Un sorcier aurait guéri un jour un fermier Transylvanie de cette affliction, mais comme il s’est avéré une source d’information peu fiable et une fraude, il est possible que la contre-malédiction n’existait pas du tout. 
+
+- Commentaire : La malédiction elle-même existe bel et bien, le seul moyen de l'arrêter est d'utiliser son contre sort : Mutismus
+
+

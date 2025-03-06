@@ -1,0 +1,24 @@
+
+-Matière: Sortilège
+
+- Sortilège: : Finite | Finite Incantatem | Contre-Sort Général
+
+- Incantation: : fi-NEE-tay in-can-TAH-tem
+
+- Effet: : Supprime immédiatement les effets de tous les sortilèges
+
+- Type: Enchantement | contre-sort 
+
+- Gestuelle:  🛡️ (un bouclier) 
+
+- Forme Physique: : une lumière rouge qui émane de la baguette, puis qui viens s'appliquer sur l'objectif
+
+- Étymologie: Du latin finire, signifiant "en finir avec", ou "terminer", et incantationem, signifiant "enchantement". Finite signifie 'la fin' (impératif).
+
+- Utilité: Le Contre-Sort Général était un contre-sort d’usage commune. Il peut être utilisé dans des duels pour contrer ou inverser des dommages mineurs, tels que les effets de des sortilège directes. Il pourrait également être utilisé sur une maison entière pour (temporairement) arrêter les effets des enchantements protecteurs, par exemple par précaution avant qu’un Moldus ne réponde à la porte. Il est enseigné à Poudlard en deuxième et troisième année de classe Sortilège.
+
+- Histoire: Ce sortilège ne possède pas d'Histoire connu, on sait néanmoins qu'il doit être l'un des sortilèges les plus anciens du monde des sorciers, dû à son utilité indispensable. 
+
+- Commentaire: : Ce sortilège est capable de contrer plusieurs sortilèges utilisant un peu de magie noir (des maléfices etc...) , mais surtout, il peut être utilisé par plusieurs personne à la fois pour accroître les chances de stopper un puissant sortilège, comme par exemple des sortilèges de magie noir (Protego Diabolica...) A noter toutefois qu'il ne peut annuler tout les sortilège de magie noir , peut importe son nombre d'utilisateurs.
+
+

@@ -1,0 +1,24 @@
+
+- Matière: Inflatus.
+
+- Sortilège: Charme Gonflant.
+
+- Incantation: Inflatus (in-FLA-tuss).
+
+- Effet: Permet de faire gonfler la cible visée de type créatures/personnes/objets avec de l'oxygène afin de faire flotter la cible dans les air comme un ballon et ensuite éclate en relâchant plein de ballons multicolore qui eux-mêmes éclateront juste après.
+
+- Type: Enchantement.
+
+- Gestuelle: Tendre le bras et pointez sa baguette vers la cible.
+
+- Forme Physique: Orbe de couleur bleu au bout de la baguette. (indirect)
+
+- Étymologie: "Inflatus" viens du pré-fixe "Inflate" en anglais qui signifie «se développer avec de l'oxygène».
+
+- Utilité: Permet de faire gonfler le corps d'une créature/personne/objet afin que celui-ci commence à flotter dans les airs afin de fuir la personne/créature, ou simplement se moquer d'elle.
+
+- Histoire: /
+
+- Commentaire: Les effets ne sont que temporaires, en moyenne 5 secondes. Après sa, les ballons éclatent. Les effets sont aussi annulable avec: "Finite Incantatem". Au plus la cible est grosse, au plus le sort demandera de la puissance et les effets seront plus long, et aussi il y aura plus de ballons quand sa éclatera.
+
+

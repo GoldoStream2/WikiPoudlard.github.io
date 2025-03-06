@@ -1,0 +1,22 @@
+
+- Sortilège: Magicus Extremos
+
+- Incantation: MAJ-i-cuss ex-TREM-oss
+
+- Effet: Magicus Extremos est un sort qui ne peut s'utiliser qu'à plusieurs, il faut être au moins trois, il augmente les sorts pendant une vingtaine de secondes. Les lanceurs du sort ont une aura autour d'eux.
+
+- Type: Enchantement 
+
+- Gestuelle:  Pointer la baguette au ciel 
+
+- Forme Physique: Une aura verte ou rose 
+
+- Étymologie: Du latin "magicus", signifiant "magique" et "extremus" signifiant "extrême".
+
+- Utilité: Permet d'améliorer l'efficacité des sortilèges pendants un court laps de temps 
+
+- Histoire: Inconnu
+
+- Commentaire: Un sortilège à long terme (Protego Totalum , Salvio Hexia...) lancé pendant le sortilège de Magicus Extremos garde la puissance même après la fin des effets sur les sorciers
+
+

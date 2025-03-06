@@ -1,0 +1,27 @@
+
+- Sortilège : Hillium
+
+- Incantation : Hillium (pas d'accentuation) 
+
+- Effet : Il permet de cicatriser une blessure de taille variable en reformant les tissus, stoppant les hémorragies externes. Il permet aussi de soigner les brûlures, essentiellement à partir d'une brûlure au second degré.
+
+Pour les brûlures, le sort agit comme un gel qui réparera l'épiderme.
+
+- Type : Enchantement
+
+- Gestuelle : Suivre la blessure de la baguette, comme une fermeture éclair.
+
+- Forme physique : C'est une boule verte émanant du bout de la baguette (comme Lumos) avec de petites étincelles de la même couleur qui se projettent sur la blessure.
+
+- Étymologie : "Hillium" qui vient du latin "Auxilium" qui signifie aider ou secourir.
+
+- Utilité : Soigner une plaie béante, une hémorragie importante.
+
+- Variants : Episkey et Vulnera Sanentur ne sont pas des variants d'Hillium, bien qu'ils permettent de soigner tous les trois.
+
+- Histoire : Méconnue
+
+- Commentaires : La vitesse de guérison varie en fonction de la puissance du sorcier, plus l'attente est longue pour cicatriser la blessure et plus le sort sera douloureux lors de la guérison. 
+Le sort demande énormément d'énergie et d'entraînement, comme Revigor.
+
+

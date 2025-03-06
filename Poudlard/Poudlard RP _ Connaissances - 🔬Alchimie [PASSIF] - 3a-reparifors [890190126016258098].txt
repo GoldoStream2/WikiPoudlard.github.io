@@ -1,0 +1,24 @@
+
+- Matière: Alchimie.
+
+- Sortilège: Reparifors.
+
+- Incantation: Reparifors (re-PAR-i-fors).
+
+- Effet: Permet de guérir les paralysies ou les empoisonnements causé par la magie.
+
+- Type: Enchantement.
+
+- Gestuelle: Tendre le bras et pointer sa baguette vers la cible à guérir.
+
+- Forme Physique: Une lueur de couleur blanche et violette au bout de la baguette qui ira enrober en entier la personne/créature visé et la soignera.
+
+- Étymologie: Le pré-fixe "repar" viens du mot anglais "repair" qui signifie "réparer" et le suffixe "fors" est le mot latin pour «opportunité, chance, fortune», bien qu'il puisse aussi provenir de l'anglais "form" ou directement de sa signification en espagnol "forma". On peux le traduire par "Réparer la forme".
+
+- Utilité: Permet de s'utiliser afin de d'annuler les effet de poison mineur/paralysie que ce soit causé par des sortilèges/potions/créatures.
+
+- Histoire: /
+
+- Commentaire: Ce sort est généralement utilisé pour contrer les effets du sort Petrificus Totalus ou simplement contre des potions raté qui se transforme donc en poison. La capacité à guérir du sort varie en fonction de la puissance du sorcier mais reste moins efficace que des antidotes. Ne permet pas de guérir le poison du Basilic, celui-ci nécessite obligatoirement des larmes de phénix.
+
+

@@ -1,0 +1,24 @@
+
+- Sortilège: Sortilège de la Cascade 
+
+- Incantation: Caesar 
+
+- Effet: Le Sortilège de Cascade (incantation inconnue) est un maléfice utilisé pour attaquer plusieurs adversaires à proximité les uns des autres. Lorsqu’il est lancé, le sort éclate en une explosion, frappant tout ce qui se trouve dans la zone définie par le lanceur
+
+- Type: Maléfice 
+
+- Gestuelle: Un tourbillon , une spirale , puis pointer le lieux de l'explosion principale 
+
+- Forme Physique: Un nuage bleuté qui, lorsqu'il explose, envoie des miniature de ce dernier qui explose à leurs tour sur les cibles 
+
+- Étymologie: Caesar viens du mot latin "cascade" 
+
+- Utilité: Ce sortilège peut être utile lorsqu'on se trouve face à plusieurs individus pour les désorienter le temps de fuir ou les attaquer 
+
+- Histoire: Inconnu 
+
+- Commentaire: 
+-Ce sortilège n'est pas létale, l'explosion désoriente simplement les cibles
+-plus la spirale faite lors de la gestuelle sera grande, plus le sortilège aura une zone importante
+
+

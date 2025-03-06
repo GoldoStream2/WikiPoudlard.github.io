@@ -1,0 +1,22 @@
+
+- Sortilège: Charme de non-collision.
+
+- Incantation: Impedicoli.
+
+- Effet: Permet de coller 2 objets ensemble via un lien magique et fait aussi en sorte que les 2 objets n'ont pas de collision entre eux.
+
+- Type: Enchantement.
+
+- Gestuelle: Un nœud avec une languette liant les deux objets.
+
+- Forme Physique: Une orbe quasiment invisible avec une lumière bleu au bout de la baguette.
+
+- Étymologie: "IMPEDI" qui vient du latin Impedio qui veux dire empêcher, "Coli" qui vient du latin qui veux dire coller.
+
+- Utilité: L'utilité est dans l'effet.
+
+- Histoire: /
+
+- Commentaire: Ce sortilège va les coller sans aucune possibilité de les retirer sauf en procédant à la destruction de l'un d'entre eux ou en annulant le lien en relançant le sortilège. Ne fonctionne pas sur les êtres vivants. Les objets collé ensemble garde leur poid, si on veux soulever une bouteille qui est collé a une table, la table viendra avec tout en gardant son poid. Un sorcier plus puissant pourra coller de plus gros objet ensemble, telle que 2 meubles entre eux par exemple.
+
+

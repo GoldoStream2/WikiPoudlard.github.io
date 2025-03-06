@@ -1,0 +1,22 @@
+
+- Sortilège: Sortilège du Maraudeur 
+
+- Incantation: Ostende mihi illos huc, qui potes
+
+- Effet: Une fois lancé sur une carte, ce sortilège montre les déplacements de tous ceux se trouvant sur les lieux situés sur la carte. 
+
+- Type: Enchantement 
+
+- Gestuelle:: Tapoter sur la carte 
+
+- Forme Physique: Aucune 
+
+- Étymologie: "Ostende mihi illos huc, qui potes" signifie  "Montre moi ceux qui s'aventurent ici"
+
+- Utilité: Permet tout simplement de savoir ou sont les gens situés sur la carte en temps réel 
+
+- Histoire: Inconnu 
+
+- Commentaire: La carte ne peut pas être trompée.
+
+

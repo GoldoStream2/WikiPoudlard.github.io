@@ -1,0 +1,22 @@
+
+- Sortilège: Periculum.
+
+- Incantation: Periculum.
+
+- Effet: Permet de crée une boule d'étincelles rouge qui explosera en feux d'artifice au bout de 3 secondes, ou simplement au contact d'une surface.
+
+- Type: Enchantement.
+
+- Gestuelle: Tendre son bras et pointer sa baguette vers la direction souhaité.
+
+- Forme Physique: Boule rouge avec une trainée qui explosera en une boule d'étincelles rouge dans le ciel.
+
+- Étymologie: "Periculum" qui viens du mot latin "Periculi" qui signifie "danger/risque".
+
+- Utilité: Permet de prévenir d'un danger quand on l'envoie, 
+
+- Histoire: Il a peut être été inspiré des feux d'artifices chinois quand ils ont découvert la poudre à canon.
+
+- Commentaire: Évolution de Vermillious. Si il est lancé sur le sol près de sois ou près de personne/créature celle-ci pourront avoir extrêmement mal suite au projection de milliers d'étincelles rouges qui provoquent des brûlures assez importante du premier au deuxième degrés.
+
+

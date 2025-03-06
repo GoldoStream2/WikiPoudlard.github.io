@@ -1,0 +1,22 @@
+
+- Sortilège: Volatilors.
+
+-Incantation: Volatilors.
+
+-Effet: Le sortilège permet de transformer la cible, créature ou objet en poule.
+
+-Type: Transfiguration (Enchantement).
+
+- Gestuelle: Pointer la baguette sur la cible.
+
+- Forme Physique: Une lueur de lumière violette jaillit au bout de la baguette.
+
+ - Étymologie: Du latin "volatile" qui signifie "volatile", une volatile est un oiseau domestique de basse-cours.
+
+- Utilité: Le sortilège permet de transformer n'importe quoi en poule. Le sortilège est très pratique pour des duels entre sorcier.
+
+- Histoire: ./
+
+- Commentaire: Plus le sorcier est aguerri, plus le sorcier pourra faire des poules plus réalistes.
+
+

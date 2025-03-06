@@ -1,0 +1,25 @@
+
+- Sortilège: Limite d'Âge
+
+- Incantation: Inconnu 
+
+- Effet: La Limite d'Âge est un sort qui permet de délimiter une zone interdite aux sorciers qui n'ont pas l'âge requis.
+
+- Type: Enchantement 
+
+- Gestuelle: Inconnu 
+
+- Forme Physique: Tracé bleu 
+
+- Étymologie: Inconnu 
+
+- Utilité: Ce sortilège empêche ainsi aux sorciers n'ayant pas l'âge requis de pénétrer dans un lieux, pour éviter qu'il ne voient ou participent à quelque chose qui n'est pas autorisé à leurs âges 
+
+- Histoire: Inconnu 
+
+- Commentaire:
+
+-Ce sortilège est utilisé à chaque coupe de feu
+-Ce sortilège ne peut être berné (potion de vieillissement, perche pour récupérer un objet...) une tentative d'y rentrer fait automatiquement transformer périodiquement l'individu en vieille personne
+
+

@@ -1,0 +1,28 @@
+
+- Sortilège: Priori Incantatum
+
+- Incantation: PRI-or in-can-TAH-toh
+
+- Effet: Priori Incantatum, également appelé la remontée des sortilèges, est un sortilège qui sert à dévoiler la dernière action d'une baguette magique. Le sortilège à la particularité de pouvoir aussi être automatiquement créer lorsqu’un duel s'engage entre deux baguette jumelle s'affrontent (dont un ingrédient est issu du même animal). (Le serveur ne prend pas en compte cet information) 
+
+- Type: Enchantement 
+
+- Gestuelle: Pointer la baguette sur l'autre baguette 
+
+- Forme Physique: 
+En cas d'un simple Prior Incanto : Les derniers sortilèges sont dévoilés 
+En cas d'un Priori Incantatem : Un lien de force entre les deux baguette 
+
+- Étymologie: Prior signifie "Premier" , Incantato "Incantation" . "Priori" signifie "Priorité" , "Incantatem" signifie "Incantée" 
+
+- Utilité: Permet de dévoiler les derniers sortilèges d'un utilisateurs 
+
+- Histoire: Le sortilège semble être un sortilège que la Magie créer d'elle même 
+
+- Commentaire:
+
+L’effet de Sort Inversé, aussi connu sous le nom de Priori Incatatem , est une manifestation particulièrement rare de ce sort qui se produisit lorsque deux baguettes avec le même noyau (c’est-à-dire prises du même animal) tentèrent de s’affronter en duel. La baguette du vainqueur a forcé la baguette du perdant à produire des "échos" des sorts les plus récents exécutés dans l’ordre inverse.
+
+Deux baguettes jumelles ne peuvent agir l'une contre l'autre. Si leurs propriétaires les forcent à combattre, un phénomène se produit et relie les deux baguettes. L'une d'elle finit par obliger l'autre à régurgiter les sorts qu'elle a jetés, du plus récent au plus ancien. Si l'un de ces sorts étaient un sortilège de la Mort, un écho du défunt, conservant son apparence et sa personnalité, apparaît.
+
+

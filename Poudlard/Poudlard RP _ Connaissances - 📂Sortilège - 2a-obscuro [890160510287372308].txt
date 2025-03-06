@@ -1,0 +1,22 @@
+
+- Sortilège: Obscuro.
+
+- Incantation: Obscuro (ob-SCU-roh).
+
+- Effet: Fait apparaître un bandeau invisible qui dé-munie de vue, une personne/créature visé de manière temporaire.
+
+- Type: Conjuration (invoquer depuis rien).
+
+- Gestuelle: Le chiffre "6" avec la boucle du "6" qui dépasse un peu et qui est couché totalement vers la gauche.
+
+- Forme Physique: /
+
+- Étymologie: "Obscuro" qui viens du verbe latin "Obscurare" qui signifie "Je cache/Je voile".
+
+- Utilité: Permet de bandez les yeux d'une personne/créature afin d'avoir le temps de fuir, utilisé aussi sur une personne en duel, afin que celle-ci ait du mal à vous toucher pendant un certain temps.
+
+- Histoire: /
+
+- Commentaire: Le sort peut être annulé avec un Finite Incantatem. Il a aussi une portée variable en fonction de la puissance du sorcier. Le sort n'est que temporaire, en moyenne il dure 15 secondes et après cela, le bandeau invisible disparaît. Également lors de son utilisation on entend un bruit assez stridant, qui peut parfois casser un peu les oreilles. Le bandeau demandera plus de puissance si la personne/créature visé a une tête plus grosse.
+
+

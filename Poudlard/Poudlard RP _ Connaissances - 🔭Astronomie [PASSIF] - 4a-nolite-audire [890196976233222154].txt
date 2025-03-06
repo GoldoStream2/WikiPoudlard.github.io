@@ -1,0 +1,22 @@
+
+- Sortilège: Sort d'Impassibilité
+
+- Incantation: Nolite audire (No-lite AO-dire) 
+
+- Effet: Le sort d'Impassibilité empêche d'écouter aux portes, que ce soit avec ses propres oreilles ou à l'aide d'Oreilles à rallonge. Il est possible de vérifier si la porte en question a subi ce sort en lançant un objet. Si le contact s'avère impossible, la porte a été impassibilisée.
+
+- Type: Enchantement 
+
+- Gestuelle: Pointer la cible 
+
+- Forme Physique: Aucune 
+
+- Étymologie: Nolite audire signifie en latin "n'écoute pas" 
+
+- Utilité: Permet d'empêcher quiconque d'écouter au porte, ou à travers quoi que ce soit, une discussion 
+
+- Histoire: Inconnu 
+
+- Commentaire: Le sortilège s'arrête une fois la porte ouverte
+
+

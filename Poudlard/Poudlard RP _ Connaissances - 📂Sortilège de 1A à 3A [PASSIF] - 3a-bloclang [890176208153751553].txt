@@ -1,0 +1,22 @@
+
+- Sortilège: Bloclang
+
+- Incantation: Bloclang
+
+- Effet: Bloclang  est un sort qui colle la langue au palais. Empêchant ainsi l'individu de parler 
+
+- Type: Maléfice 
+
+- Gestuelle: Pointer la baguette sur la victime 
+
+- Forme Physique: Aucune 
+
+- Étymologie: Bloclang est un jeu de mot entre bloc (bloquer) et lang (langue) 
+
+- Utilité: Permet d'empêcher quelqu'un de parler, si ce dernier souhaite dire quelque chose
+
+- Histoire: Inventé par le Prince de Sang-Mêlé
+
+- Commentaire: Les effets ne sont pas dangereux, et ne risque pas d'empêcher la personne de respirer
+
+

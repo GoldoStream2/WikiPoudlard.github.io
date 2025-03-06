@@ -1,0 +1,25 @@
+
+- Sortilège: Sortilège de coupure.
+
+- Incantation: Vegan Caedis.
+
+- Effet: Il permet à celui qui l'utilise de lancer une rafale de coupures superficielles
+mais cela provoquera une blessure au niveau du poignet de celui qui le lance.
+
+- Type: Enchantement.
+
+- Gestuelle: Pointer sa baguette.
+
+- Forme Physique: /.
+
+- Étymologie: "Vegan" qui viens du latin qui signifie "plante" et "caedis" qui viens du latin qui signifie "coupure".
+
+- Utilité: Il permet de lancer une rafale de coupures superficielles afin de couper la taille des plantes. C'est un sortilège très utile pour la botanique et la couture.
+
+- Histoire: Le Sortilège de Coupure est un sortilège très ancien créé par un chaman.
+
+- Commentaire: Si celui qui lance le sortilège alors que son niveau et sa
+quantité de flux magique est trop basse, il pourrait alors perdre la vie ou avoir
+des blessures très graves.
+
+

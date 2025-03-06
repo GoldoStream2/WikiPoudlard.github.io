@@ -1,0 +1,26 @@
+
+- Sortilège: Sortilège De Langue De Plomb.
+
+- Incantation: Mimblewimble (MIM-beul-wim-beul) / Mutismus.
+
+- Effet: Crée un nœud avec la langue de la personne/créature visé l'empêchant d'avoir un discours cohérent et l'empêche aussi de prononcé correctement les incantations.
+
+- Type: Malédiction.
+
+- Gestuelle: Une forme de looping qui ensuite reviens avec une ligne courbe au milieu du looping et qui la traverse entièrement, Ou simplement 2 nœuds qui sont l'un dans l'autre.
+
+- Forme Physique: Une orbe de couleur lilas avec une trainée de couleur lilas.
+
+- Étymologie: //
+
+- Utilité: Permet de faire un nœud avec la langue d'une personne/créature afin de l'empêcher de vous envoyer des sorts, afin de fuir. Ou simplement pour l'entendre dire des choses incohérente afin d'amuser la camaraderie.
+
+- Histoire: méconnue
+
+- Commentaire: Le sortilège permet de faire un nœud avec la langue de la personne/créature l'empêchant de dire des choses cohérente et de prononcé des incantations de sort correctement, mais il est inutile contre des sorciers qui savent lancé des sorts sans incantations. Il peut être annulé avec un Finite Incantatem. Également au plus la personne/créature a une grosse langue, au plus le sorcier ce devra d'être puissant.
+
+
+-
+En raison de l'aspect du sort sur le serveur le mimble wimble ne dure que le temps qu'il dure en jeu. Pas besoin de Finite en actif.
+
+

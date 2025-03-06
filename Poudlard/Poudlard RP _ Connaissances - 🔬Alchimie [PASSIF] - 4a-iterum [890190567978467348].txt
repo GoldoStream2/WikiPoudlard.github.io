@@ -1,0 +1,22 @@
+
+- Sortilège: Charme de Remplissage
+
+- Incantation: Iterum
+
+- Effet: Permet de remplir un contenant du liquide qui étais présent précédemment 
+
+- Type: Enchantement 
+
+- Gestuelle: Pointer la baguette sur l'objet
+
+- Forme Physique: Aucune 
+
+- Étymologie: Iterum signifie "encore" en latin
+
+- Utilité: Permet de ne jamais être à cour du contenu 
+
+- Histoire: Le Sortilège aurait été créer par Helga Poufsouffle 
+
+- Commentaire: //
+
+

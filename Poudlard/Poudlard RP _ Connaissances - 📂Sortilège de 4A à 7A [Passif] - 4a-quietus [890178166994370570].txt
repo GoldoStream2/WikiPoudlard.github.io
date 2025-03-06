@@ -1,0 +1,22 @@
+
+- Sortilège: Sortilège Apaisant.
+
+-Incantation: Quietus  (KWIY-uh-tus) / Sourdinam.
+
+-Effet: Le sortilège permet d’atténuer quelconque sons.
+
+-Type: Enchantement.
+
+- Gestuelle: Pointer la baguette sur la gorge.
+
+- Forme Physique: /.
+
+ - Étymologie: L' incantation Quietus est un mot latin signifiant « calme ». L’incantation Sourdinam une déclinaison du mot français « sourd ».
+
+- Utilité: Permet de réduire la portée de sa voix lors de discours quelconque ou de réduire le bruit de quelconque chose.
+
+- Histoire: /.
+
+- Commentaire: Le sortilège est le contre-sort de Sonorus.
+
+

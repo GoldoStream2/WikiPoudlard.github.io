@@ -1,0 +1,24 @@
+
+- Sortilège : Charme d'antivol ou dispositif antivol
+
+- Incantation : Aucune
+
+- Effet : Empêche un objet d'être invoqué par le sortilège d'attraction par quiconque sauf le propriétaire
+
+- Type : Enchantement 
+
+- Gestuelle : Pointer l'objet voulu
+
+- Forme Physique : Aucune
+
+- Étymologie : Aucune car il n'a pas d'incantation
+
+- Utilité : Ce sortilège est mis sur la plupart des objets vendus dans les magasins sorciers pour empêcher un cambrioleur de voler les objets via la magie.
+
+- Histoire : Méconnue
+
+- Contre-sort(s) : Aucun(s)
+
+- Commentaire : Un autre sortilège peut être incanté sur les objets, celui de la malédiction du voleur. Ces deux sortilèges unis assurent une sécurité satisfaisante sur les articles en vente.
+
+

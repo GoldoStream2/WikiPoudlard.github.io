@@ -1,0 +1,20 @@
+
+Incantation : Gemino
+
+Effet : Permet tout simplement de dupliquer l'objet ensorceler,Mais peu également le faire multiplier à l'infinie.
+
+Type : Maléfice/Charme
+
+Gestuelle : Pointer sa baguette sur l'objet visé
+
+Forme physique : ./
+
+Étymologie : Le terme et la formule Gemino vient du mot latin Gemino signifiant "doubler".
+
+Histoire : Le double charme a été inventé par une paire de sorcières jumelles recluses , Helixa et Syna Hyslop , qui l'ont utilisé pour créer des doublons de chaque élément à l'intérieur de leur manoir , dans lequel ils ont vécu ensemble toute leur vie. Après leur mort, leurs proches ont finalement appris cette pratique, découvrant deux ensembles d'instructions écrites à la main pour le sort, un laissé par chaque jumeau.
+
+Commentaires : 
+Le sortilège est annulable avec finite incantatem. 
+Les jumelles Helixa et Syna Hyslop l'ont utilisé pour créer des doublons de chaque élément à l'intérieur de leur manoir.
+
+

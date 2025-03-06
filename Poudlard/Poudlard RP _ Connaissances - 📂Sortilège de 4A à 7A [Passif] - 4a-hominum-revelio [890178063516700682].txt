@@ -1,0 +1,22 @@
+
+- Sortilège: Sortilège de Révélation de Présence Humaine | Hominum revelio
+
+- Incantation: hoh-MUN-num reh-VEH-lee-oh
+
+- Effet: Détecte une présence humaine dans une pièce 
+
+- Type: Enchantement 
+
+- Gestuelle: Pointer la baguette dans la pièce 
+
+- Forme Physique: // 
+
+- Étymologie: Hominum est la forme génitive et plurielle du mot latin homo, qui signifie "personne". Aussi en latin, revelo signifie "je dévoile ou révèle"
+
+- Utilité: Permet de découvrir la présence humaine, et donc de détecter si quelqu'un nous attend , ou si quelqu'un est caché, ou inerte quelque part. 
+
+- Histoire: On ne connaît pas l'histoire du sortilège 
+
+- Commentaire: Le sort Hominum revelio ne détecte que les humains, comme son nom l'indique. Il ne semble donc pas efficace pour détecter d'autres présences
+
+

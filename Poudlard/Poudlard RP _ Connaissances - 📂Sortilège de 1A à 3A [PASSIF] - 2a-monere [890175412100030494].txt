@@ -1,0 +1,22 @@
+
+- Sortilège: Sortilège d'Intrusion
+
+- Incantation: Monere (mon-é-ré)
+
+- Effet: Le sortilège d'Intrusion est un enchantement qui prévient d'une intrusion. Un cri strident va alors retentir
+
+- Type: Enchantement 
+
+- Gestuelle: Pointer la pièce 
+
+- Forme Physique: Aucune 
+
+- Étymologie: Monere signifie "Avertir" en latin
+
+- Utilité: Permet d'avertir les détenteurs des lieux si quelqu'un rentre 
+
+- Histoire: Inconnu 
+
+- Commentaire: Ce sortilège est l'un des moins puissant des sortilège d'alarme, car il ne fonctionne que temporairement
+
+

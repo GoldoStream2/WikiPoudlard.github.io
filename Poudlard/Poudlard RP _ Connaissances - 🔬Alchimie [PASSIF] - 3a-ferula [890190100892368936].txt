@@ -1,0 +1,22 @@
+
+- Sortilège: Ferula
+
+- Incantation: fer-ROOL-lah
+
+- Effet: Ferula est un charme de guérison qui invoque des bandages et les enroulent autour d’une blessure, attelant les os cassés.  Le bandage semble aussi soulager la douleur.
+
+- Type: Enchantement, Conjuration, Sortilège de soin 
+
+- Gestuelle: Tapoter la cible avec sa baguette 
+
+- Forme Physique: Aucune 
+
+- Étymologie: Ferula est latin pour "tige" et se réfère à un genre de plantes appartenant à la famille des carottes. Les Romains ont appelé la tige de lumière creuse faite à partir de cette plante le même nom, qui ont été utilisés pour des bâtons de marche, des attelles, et des châtiments corporels.
+
+- Utilité: Le sortilège est très utile en médecine pour soigner les fractures, os cassés, ou simples blessures
+
+- Histoire: Le sortilège à été développer à St Mangouste Entre 1577 et 1659
+
+- Commentaire: Ce sortilège ne permet pas de refermer les plaies, ou de guérir d'effets tel que la paralysie ou le poison.
+
+

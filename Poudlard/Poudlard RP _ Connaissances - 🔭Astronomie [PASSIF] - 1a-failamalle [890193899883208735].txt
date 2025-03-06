@@ -1,0 +1,24 @@
+
+- Matière: Sortilège.
+
+- Sortilège: Failamalle.
+
+- Incantation: Failamalle.
+
+- Effet: Permet de ranger les affaires autour d'un stockage du type (coffre, sac, étagère, armoire etc...).
+
+- Type: Enchantement.
+
+- Gestuelle: Faire un large mouvement et rapide en visant son(sa) sac, mallette, un coffre ou autre.
+
+- Forme Physique: /
+
+- Étymologie: "Failamalle" qui viens de l'expression française "fait la malle" qui signifie "range les affaires", "faire ton sac" etc...
+
+- Utilité: Permet de rangé une multitude d'objet qui sont par exemple tombé par-terre, que ce soit des vêtements des jouets, de la paperasse etc... 
+
+- Histoire: Sa aurait peut être été inventé par un(e) sorcier(ère) bibliothécaire afin de ranger ses nombreux livre qui était souvent mal rangé ou autre.
+
+- Commentaire: Une fois le sort lancé, le rangement se fait tout seul. Sa range n'importe quel objet qui se trouve autour du lieu de stockage.
+
+

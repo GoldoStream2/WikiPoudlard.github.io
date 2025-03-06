@@ -1,0 +1,24 @@
+
+Catégories
+Une classification est attribuée par le Département de contrôle et de régulation des créatures magiques à tous les animaux, êtres et esprits répertoriés. On peut ainsi connaître immédiatement à quel niveau se situe telle ou telle créature, de la plus dangereuse à la plus inoffensive. 
+
+XXXXX : Connu pour être un tueur de sorcier / Impossible à dresser ou à domestiquer
+XXXX : Dangereux / Exige une connaissance spécialisée / Maîtrise possible par un sorcier expérimenté
+XXX : Ne pose pas de problème à un sorcier compétent
+XX : Inoffensif / Peut être domestiqué
+X : Animal ennuyeux / Peut être domestiqué
+
+Classification des marchandises
+Une classification est attribuée par le ministère de la Magie aux marchandises. On peut ainsi connaître immédiatement à quel niveau se situe telle ou telle marchandise et si elle est autorisée ou non à la vente. 
+ 
+A : Œufs d'Acromentule / Œufs de chimère / Œuf de dragon
+B : Corne de Cornelongue roumain / corne, queue et sécrétion d'Éruptif
+C : Graines de Tentacula vénéneuse
+
+Statut des Créatures Magiques
+Animaux : Une créature qui n’est pas dotée d’une intelligence suffisante pour comprendre les lois de la communauté magique et pour prendre une part de responsabilité dans l’élaboration de ces lois.
+Être :  Un Être est une créature qui est dotée d’une intelligence suffisante pour comprendre les lois de la communauté magique et pour prendre une part de responsabilité dans l’élaboration de ces lois.
+Esprits : La catégorie des Esprits regroupe toute « créature magique décédée ayant laissé une empreinte de son âme sur terre. » Cette catégorie existe pour représenter en priorité les fantômes (qu’ils soient humains ou animaux).
+Non-êtres : Les Non-être sont définis de la sorte : « des créatures magiques pour lesquelles il n’existe aucun équivalent chez les Moldus et qui sont encore très peu connues même au sein du monde des sorciers.
+
+

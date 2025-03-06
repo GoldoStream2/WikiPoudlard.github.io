@@ -1,0 +1,18 @@
+
+Incantation : Sonorus Repeto avec le mot ou la phrase que nous voulons faire répéter. (Sonorus Repeto monsieur Morell est un bon professeur.)
+
+Effet : Fait répéter une phrase en boucle a quelqu’un. Le sortilège n’a pas de durée et ne que peut-être annulé avec son contre-sort. 
+
+Type : Maléfice.
+
+Gestuelle : Pointer sa baguette sur la gorge de la personne visée.
+
+Forme physique : ./
+
+Étymologie : Sonorus de Sonor qui signifie « bruit, son retentissant » et Repeto du latin Repeto qui signifie « recommencer, répéter ». Le sortilège signifie « le bruit qui se répète ».
+
+Histoire : ./
+
+Commentaires : Le sortilège est annulable par Proper Sentecia. Selon la puissance du sorcier, nous pouvons faire répéter des plus longues phrases.
+
+
